@@ -1,0 +1,13 @@
+{
+  ".github/pull_request_template.md": "ea4f6453cafb723ef45ca6e04709b57b7e8305b073e4f5cffe6f25356baa4c58",
+  ".gitignore": "53d684e6548bd78163f224f3a017296477ca79d0c15f145f86691313addc0ca3",
+  "LICENSE.md": "61abe4263fb6257282d60433c127439949f1d228e4323e99d01c59f85f5f047a",
+  "NOTICE.md": "69f7f86c71271ca308faf12c7cfa57fdcf2b90ff0a4b5bb47bae59d02b773c0f",
+  "README.md": "ae6341f9bd3666ce04084ad323ef50b0c9a8578a3ee24dc14b21987e95f41af6",
+  "SECURITY.md": "c1ad925de8ae11d27a321b64e2038990061ed8b3cb7894acbb7179afc749a2bd",
+  "assets/README.md": "ee09fabb0eeb63ea1ca5bafb03d217641d7556b78a47cb956f6308369b45acc2",
+  "docs/architecture-overview.md": "4558c62112fab3459b1511e19b2b715cfff5c5279ceff96ffc56f90d88de462f",
+  "docs/public-private-boundary.md": "0ebccb0028d8a24ced6f36cb90897661aa651558dbcb9e021ea314f797087077",
+  "docs/research-links.md": "ed6e3e6e52f662a3ecaf671a4522279d1f983fafd92d3fad8cccc321bec6d513",
+  "examples/synthetic_governance_review.py": "263936e1a08c705a5c226b4207f6fa76b1d00c4403ccbfac132b3c3559c48d68"
+}
