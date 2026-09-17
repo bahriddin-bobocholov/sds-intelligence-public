@@ -1,13 +1,20 @@
 {
+  ".gitattributes": "1865913e7d12e241447bd93d6229285b4c10ed42f599d19a5ed17a4e3924e255",
   ".github/pull_request_template.md": "ea4f6453cafb723ef45ca6e04709b57b7e8305b073e4f5cffe6f25356baa4c58",
   ".gitignore": "53d684e6548bd78163f224f3a017296477ca79d0c15f145f86691313addc0ca3",
-  "LICENSE.md": "61abe4263fb6257282d60433c127439949f1d228e4323e99d01c59f85f5f047a",
-  "NOTICE.md": "69f7f86c71271ca308faf12c7cfa57fdcf2b90ff0a4b5bb47bae59d02b773c0f",
-  "README.md": "ae6341f9bd3666ce04084ad323ef50b0c9a8578a3ee24dc14b21987e95f41af6",
-  "SECURITY.md": "c1ad925de8ae11d27a321b64e2038990061ed8b3cb7894acbb7179afc749a2bd",
   "assets/README.md": "ee09fabb0eeb63ea1ca5bafb03d217641d7556b78a47cb956f6308369b45acc2",
   "docs/architecture-overview.md": "4558c62112fab3459b1511e19b2b715cfff5c5279ceff96ffc56f90d88de462f",
   "docs/public-private-boundary.md": "0ebccb0028d8a24ced6f36cb90897661aa651558dbcb9e021ea314f797087077",
   "docs/research-links.md": "ed6e3e6e52f662a3ecaf671a4522279d1f983fafd92d3fad8cccc321bec6d513",
-  "examples/synthetic_governance_review.py": "263936e1a08c705a5c226b4207f6fa76b1d00c4403ccbfac132b3c3559c48d68"
+  "examples/synthetic_governance_review.py": "263936e1a08c705a5c226b4207f6fa76b1d00c4403ccbfac132b3c3559c48d68",
+  "LICENSE.md": "61abe4263fb6257282d60433c127439949f1d228e4323e99d01c59f85f5f047a",
+  "NOTICE.md": "69f7f86c71271ca308faf12c7cfa57fdcf2b90ff0a4b5bb47bae59d02b773c0f",
+  "README.md": "13ab6b73640ffbd03642ccc6d8d01d5703b92909b3033fc16895ad8e54cf8bb0",
+  "research-replication/figures/README.md": "bc874cbbfff3203cd084fb5081c77fc02a7ca1d4393a7af9d76585116dc07887",
+  "research-replication/methodology.md": "b847792cadc6562ceec0b1ecf183124857d6b8d137a226070b4cf8fe9d42f539",
+  "research-replication/README.md": "d391dc5ecc8e57c3326258dd246a3100308b6d4c63cb291129b649578ae2454d",
+  "research-replication/reproduce_demo.py": "f5fd5756cbee7c9143e3be95cfe375fbddc06df4d4e7491bf454881530901026",
+  "research-replication/synthetic_sample.csv": "7a79707861d5f7213416adc377c8fc04936d385cf5a23e272c0f52ffcb095646",
+  "research-replication/validation_notes.md": "85cabe9df35cdf91425315c075fa0372a28a923f49d35fa8c0cdb6f34f129832",
+  "SECURITY.md": "c1ad925de8ae11d27a321b64e2038990061ed8b3cb7894acbb7179afc749a2bd"
 }

@@ -59,3 +59,12 @@ Founder & Principal Investigator, SDS Intelligence
 CAMS | CFE | PMP | TOGAF
 
 © 2026 Bahriddin Bobocholov / SDS Intelligence. All rights reserved.
+
+## Research replication
+
+A public-safe research replication demonstration is available in [`research-replication/`](research-replication/).
+
+It demonstrates deterministic processing, SHA-256 input hashing, transparent validation logic, leakage-awareness, reproducible outputs, and explicit methodological limitations using synthetic data.
+
+The replication materials intentionally exclude proprietary SDS scoring logic, ontology details, adjudication data, customer-specific information, and confidential platform methods.
+
