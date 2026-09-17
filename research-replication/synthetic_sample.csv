@@ -1,0 +1,11 @@
+institution,document_id,clause_id,text_length,has_accountability_term,has_discretion_term,label
+Bank_A,doc_001,c001,42,1,0,ACCOUNTABILITY
+Bank_A,doc_001,c002,37,0,1,DISCRETION
+Bank_A,doc_002,c003,51,1,0,ACCOUNTABILITY
+Bank_B,doc_003,c004,29,0,1,DISCRETION
+Bank_B,doc_003,c005,33,1,0,ACCOUNTABILITY
+Bank_B,doc_004,c006,46,0,1,DISCRETION
+Bank_C,doc_005,c007,39,1,0,ACCOUNTABILITY
+Bank_C,doc_005,c008,44,0,1,DISCRETION
+Bank_D,doc_007,c009,48,1,0,ACCOUNTABILITY
+Bank_D,doc_008,c010,30,0,1,DISCRETION
